@@ -1,0 +1,30 @@
+.header {
+    background-color: #2F3350;
+    padding: 1em 1em 1em 2em;
+}
+
+.aside {
+    background-color: #248399;
+    padding: 1em;
+}
+
+.article {
+    background-color: #FFFFFF;
+    padding: 1em;
+}
+
+.footer {
+    background-color: #783633;
+    padding: 1em 1em 1em 2em;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.thumbnail {
+    position: relative;
+}
